@@ -1,0 +1,54 @@
+    1  pkg install apt
+    2  apt update && apt upgrade -g
+    3  apt update & & apt upgrade -g
+    4  apt update && apt upgrade -y
+    5  apt install -y proot proot-distro
+    6  proot-distro add Ubuntu
+    7  proot-distro add ubuntu
+    8  proot-distro login ubuntu
+    9  pkg install python3
+   10  apk install git
+   11  apt install git
+   12  clear
+   13  pkg install git
+   14  git clone https://github.com/cyveraliba/230378643-ALIBA
+   15  pkg install gh
+   16  git auth login
+   17  gh auth login
+   18  pkg install openjdk
+   19  touch BruhCalculator.java
+   20  nano BruhCalculator.java
+   21  mv BruhCalculator.java HelloBlud.java
+   22  clear
+   23  ls
+   24  nano HelloBlud.java
+   25  javac HelloBlud.java
+   26  java HelloBlud.Java
+   27  nano HelloBludml
+   28  nano HelloBlud.java
+   29  java HelloBlud.java
+   30  clear
+   31  ls
+   32  rm HelloWorld.class
+   33  clear
+   34  ls
+   35  javac HelloBlud.java
+   36  java HelloBlud.java
+   37  push
+   38  clear
+   39  git push
+   40  clear
+   41  cd 230378643-ALIBA
+   42  git push
+   43  clear
+   44  exit
+   45  gh repo clone https://github.com/cyveraliba/230378643-ALIBA
+   46  cd 230378643-ALIBA
+   47  ls
+   48  git checkout -b finalexam
+   49  history > exam_log.txt
+   50  git commit -m "Added exam_log.txt with command history"
+   51  gh auth login
+   52  git commit -m "Added exam_log.txt with command history"
+   53  git push origin finalexam
+   54  history > exam_log.txt
